@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<version>3</version>
+	<name>MyBugFree v1.0.0</name>
+	<url>https://github.com/chenshiming0802/bugfree1.0_for_android/raw/master/1.0.0/bugfree1.0_for_android_v1.0.0.apk</url>
+</update>
+<!--
+v0.0.1(1)
+初始版本
+
+v0.1.1(2)
+界面调整
+增加spsr代码
+
+v1.0.0(3)
+增加创建BUG功能
+增加上传图片功能
+
+-->
